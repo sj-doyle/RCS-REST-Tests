@@ -1,0 +1,2 @@
+#!/bin/bash
+mvn -Dtest=Test006GroupChat test
