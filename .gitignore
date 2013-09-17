@@ -21,3 +21,5 @@ rest-assured/*
 scripts/*
 target/*
 
+/bin
+/target
